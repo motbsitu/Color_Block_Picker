@@ -1,0 +1,45 @@
+
+
+
+
+.green-box{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  float: left;
+  margin: 15px;
+}
+.yellow-box{
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  float: left;
+  margin: 15px;
+}
+.blue-box{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  float: left;
+  margin: 20px;
+}
+.red-box{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  float: left;
+  margin: 20px;
+}
+
+#play{
+  font-size: 15px;
+  margin: 20px;
+  width: 300px;
+  padding: 1em;
+  border: 1px solid black;
+  background-color: #666699;
+  color: white;
+  font-size: 20px;
+  clear: both;
+
+}
